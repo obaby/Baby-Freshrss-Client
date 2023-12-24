@@ -19,7 +19,7 @@ def print_hi(name):
     # f = Figlet(font='slant')
     f = Figlet()
     print(f.renderText('obaby@mars'))
-    print('FreshRss Clien')
+    print('FreshRss Client')
     print('Verson: 23.12.24')
     print('闺蜜圈：https://dayi.ma')
     print('Blog: http://oba.by')
